@@ -14,8 +14,8 @@ alert(statement);
 
 
 // Code for bookmarklet
-//javascript: function killerapp() {
+//javascript: function callPanda() {
 	//var jsCode = document.createElement('script');
 	//jsCode.setAttribute('src', 'http://50.137.252.151/pandadora/pandadora.js');
 	//document.body.appendChild(jsCode);
-//} killerapp();
+//} callPanda();
